@@ -379,7 +379,9 @@ h2{
     }
 
     /*-----seccion 1-----*/
-
+.atf-presentacion{
+    margin-top: 20px;
+}
 
 .logo-atf{
     max-width: 500px;
@@ -387,6 +389,7 @@ h2{
     
 .escudo-atf{
     max-width: 250px;
+    width: 50%;
   
 }
 
